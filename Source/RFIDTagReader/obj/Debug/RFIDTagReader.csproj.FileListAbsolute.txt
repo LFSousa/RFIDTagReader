@@ -1,0 +1,12 @@
+c:\users\filipebr\documents\visual studio 2013\Projects\RFIDTagReader\RFIDTagReader\bin\Debug\RFIDTagReader.exe.config
+c:\users\filipebr\documents\visual studio 2013\Projects\RFIDTagReader\RFIDTagReader\bin\Debug\RFIDTagReader.exe
+c:\users\filipebr\documents\visual studio 2013\Projects\RFIDTagReader\RFIDTagReader\bin\Debug\RFIDTagReader.pdb
+c:\users\filipebr\documents\visual studio 2013\Projects\RFIDTagReader\RFIDTagReader\obj\Debug\RFIDTagReader.csprojResolveAssemblyReference.cache
+c:\users\filipebr\documents\visual studio 2013\Projects\RFIDTagReader\RFIDTagReader\obj\Debug\RFIDTagReader.Properties.Resources.resources
+c:\users\filipebr\documents\visual studio 2013\Projects\RFIDTagReader\RFIDTagReader\obj\Debug\RFIDTagReader.csproj.GenerateResource.Cache
+c:\users\filipebr\documents\visual studio 2013\Projects\RFIDTagReader\RFIDTagReader\obj\Debug\RFIDTagReader.exe
+c:\users\filipebr\documents\visual studio 2013\Projects\RFIDTagReader\RFIDTagReader\obj\Debug\RFIDTagReader.pdb
+c:\users\filipebr\documents\visual studio 2013\Projects\RFIDTagReader\RFIDTagReader\obj\Debug\RFIDTagReader.Connection.resources
+c:\users\filipebr\documents\visual studio 2013\Projects\RFIDTagReader\RFIDTagReader\obj\Debug\RFIDTagReader.Main.resources
+c:\users\filipebr\documents\visual studio 2013\Projects\RFIDTagReader\RFIDTagReader\obj\Debug\RFIDTagReader.AddCard.resources
+c:\users\filipebr\documents\visual studio 2013\Projects\RFIDTagReader\RFIDTagReader\obj\Debug\RFIDTagReader.RemoveCard.resources
